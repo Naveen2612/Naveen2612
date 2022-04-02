@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram - Naveen9343Kumar.
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I spend almost listening song everyday.
+
+I am good at
+
+C,C++,Java,Python
+Asp.Net (FrontEndDesign)
+
+
 -->
